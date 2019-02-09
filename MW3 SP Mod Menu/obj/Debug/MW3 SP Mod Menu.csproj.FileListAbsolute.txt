@@ -1,0 +1,20 @@
+C:\Users\Utilisateur_\Documents\Visual Studio 2012\Projects\MW3 SP Mod Menu\MW3 SP Mod Menu\bin\Debug\MW3 SP Mod Menu.exe
+C:\Users\Utilisateur_\Documents\Visual Studio 2012\Projects\MW3 SP Mod Menu\MW3 SP Mod Menu\bin\Debug\MW3 SP Mod Menu.pdb
+C:\Users\Utilisateur_\Documents\Visual Studio 2012\Projects\MW3 SP Mod Menu\MW3 SP Mod Menu\bin\Debug\PS3Lib.dll
+C:\Users\Utilisateur_\Documents\Visual Studio 2012\Projects\MW3 SP Mod Menu\MW3 SP Mod Menu\obj\Debug\MW3 SP Mod Menu.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur_\Documents\Visual Studio 2012\Projects\MW3 SP Mod Menu\MW3 SP Mod Menu\obj\Debug\MW3_SP_Mod_Menu.Form1.resources
+C:\Users\Utilisateur_\Documents\Visual Studio 2012\Projects\MW3 SP Mod Menu\MW3 SP Mod Menu\obj\Debug\MW3_SP_Mod_Menu.Properties.Resources.resources
+C:\Users\Utilisateur_\Documents\Visual Studio 2012\Projects\MW3 SP Mod Menu\MW3 SP Mod Menu\obj\Debug\MW3 SP Mod Menu.csproj.GenerateResource.Cache
+C:\Users\Utilisateur_\Documents\Visual Studio 2012\Projects\MW3 SP Mod Menu\MW3 SP Mod Menu\obj\Debug\MW3 SP Mod Menu.exe.licenses
+C:\Users\Utilisateur_\Documents\Visual Studio 2012\Projects\MW3 SP Mod Menu\MW3 SP Mod Menu\obj\Debug\MW3 SP Mod Menu.exe
+C:\Users\Utilisateur_\Documents\Visual Studio 2012\Projects\MW3 SP Mod Menu\MW3 SP Mod Menu\obj\Debug\MW3 SP Mod Menu.pdb
+D:\Visual Studio\MW3 SP Mod Menu\MW3 SP Mod Menu\bin\Debug\MW3 SP Mod Menu.exe
+D:\Visual Studio\MW3 SP Mod Menu\MW3 SP Mod Menu\bin\Debug\MW3 SP Mod Menu.pdb
+D:\Visual Studio\MW3 SP Mod Menu\MW3 SP Mod Menu\bin\Debug\PS3Lib.dll
+D:\Visual Studio\MW3 SP Mod Menu\MW3 SP Mod Menu\obj\Debug\MW3 SP Mod Menu.csprojResolveAssemblyReference.cache
+D:\Visual Studio\MW3 SP Mod Menu\MW3 SP Mod Menu\obj\Debug\MW3_SP_Mod_Menu.Form1.resources
+D:\Visual Studio\MW3 SP Mod Menu\MW3 SP Mod Menu\obj\Debug\MW3_SP_Mod_Menu.Properties.Resources.resources
+D:\Visual Studio\MW3 SP Mod Menu\MW3 SP Mod Menu\obj\Debug\MW3 SP Mod Menu.csproj.GenerateResource.Cache
+D:\Visual Studio\MW3 SP Mod Menu\MW3 SP Mod Menu\obj\Debug\MW3 SP Mod Menu.exe.licenses
+D:\Visual Studio\MW3 SP Mod Menu\MW3 SP Mod Menu\obj\Debug\MW3 SP Mod Menu.exe
+D:\Visual Studio\MW3 SP Mod Menu\MW3 SP Mod Menu\obj\Debug\MW3 SP Mod Menu.pdb
